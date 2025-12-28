@@ -3,7 +3,7 @@
 ## 官网: www.yamikani.cn
 
 <div align="center">
-  ![介绍](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets-2/blob/main/img/Poster.jpg?raw=true)
+    <img src="/img/Poster.jpg" alt="直观的编辑课表界面" width="100%">
 </div>
 
 
@@ -78,5 +78,3 @@
 ##
 
 Copyright © 2024-2025 LingYun.
-
-[![logo](https://private-user-images.githubusercontent.com/196129825/449471656-e1397742-e4af-4407-b113-a8b4738d1e0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkwMTcwNTgsIm5iZiI6MTc0OTAxNjc1OCwicGF0aCI6Ii8xOTYxMjk4MjUvNDQ5NDcxNjU2LWUxMzk3NzQyLWU0YWYtNDQwNy1iMTEzLWE4YjQ3MzhkMWUwZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNFQwNTU5MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNjdhMWYwMzJjYWVhMTk5NjNmYjFkNzVjNzVkY2RiMjdjZThiMDZkZTVjZjBiMjVmMzQ3MjUzYWEwYmU4OWQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bzyvDTZMhfsAMdupRvrevs4OGW8bmu_o73rft1OhjMs)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases/)
